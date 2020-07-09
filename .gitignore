@@ -1,2 +1,4 @@
+.gitignore
 data/
-.ipynb_checkpoints
+.ipynb_checkpoints/
+zippedData/
