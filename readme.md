@@ -20,4 +20,12 @@ provided.
 ## Data Cleaning
 After loading all the data files, our first step was to clean the data.
 Since the data was lay out over multiple files, our first task was to merge the
-useful data in one pandas dataframe.
+useful data in one pandas dataframe. We went through all of the given data files
+to clean the data and merge it appropriately. Our goal in data cleaning was to
+get everything we need in one place to make it easy for our exploratory data
+analysis.
+
+## Data Analysis and Visualization
+Our first goal was an overview of movie profitability. We looked at the log of
+production budget and worldwide_gross, then we calculated log of profit for each
+movie. Then a histogram was plotted for log of profit.
