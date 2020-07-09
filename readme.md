@@ -10,8 +10,14 @@ and visualization, we used Pandas, numpy, Matplotlib and seaborn.
 ## Project Goals
 Our goal in this project is to answer the following questions using the data
 provided.
-1. Is there a correlation between profit and month of release?
-2. Does movies with better rating make more profit?
-3. Which genres are more profitable?
-4. Is there a correlation between production budget and profit?
-5. Histogram of rate of return???????
+1. An Overview of Movie profitability
+2. What is the relationship between:
+     -a Movie’s Production Budget and its Profitability
+     -the Month of Release and Profitability
+     -Genres and Profitability
+     -Ratings and Profitability
+
+## Data Cleaning
+After loading all the data files, our first step was to clean the data.
+Since the data was lay out over multiple files, our first task was to merge the
+useful data in one pandas dataframe.
