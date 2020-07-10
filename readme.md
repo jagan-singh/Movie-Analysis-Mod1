@@ -35,9 +35,9 @@ movies.
 
 ## Conclusion
 ### Recommendations
-Based on our analysis on rate of return, most movie investments are very profitable.
-Larger movie budgets are associated with high rate of return.
-We found that movies released in June and December are more profitable.
-In terms of genres, Action, Adventure and Sci-Fi movies are most profitable whereas
-Drama and comedy movies are least profitable.
+Based on our analysis on rate of return, most movie investments are very profitable.\
+Larger movie budgets are associated with high rate of return.\
+We found that movies released in June and December are more profitable.\
+In terms of genres, Action, Adventure and Sci-Fi movies are most profitable whereas\
+Drama and comedy movies are least profitable.\
 We also found that highest rated movies are more profitable than low rated movies.
