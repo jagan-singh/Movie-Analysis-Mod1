@@ -31,7 +31,7 @@ production budget and worldwide_gross, then we calculated log of profit for each
 movie. Then a histogram was plotted for log of profit. Then we looked at if
 movie's production budget is related to profitability. Similarly we looked at
 how was profitability related to month of release, genres and ratings of those
-movies.
+movies. Here are some of the plots.
 
 ![](images/hist.png)\
 Histogram for rate of return.
