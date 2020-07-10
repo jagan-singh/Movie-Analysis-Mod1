@@ -10,11 +10,11 @@ and visualization, we used Pandas, numpy, Matplotlib and seaborn.
 ## Project Goals
 Our goal in this project is to answer the following questions using the data
 provided.
-1. An Overview of Movie profitability
-2. What is the relationship between:
-     -a Movie’s Production Budget and its Profitability
-     -the Month of Release and Profitability
-     -Genres and Profitability
+1. An Overview of Movie profitability\
+2. What is the relationship between:\
+     -a Movie’s Production Budget and its Profitability\
+     -the Month of Release and Profitability\
+     -Genres and Profitability\
      -Ratings and Profitability
 
 ## Data Cleaning
@@ -35,8 +35,7 @@ movies.
 
 ## Conclusion
 ### Recommendations
-Based on our analysis on rate of return we concluded that investing in movie is
-the right decision for Microsoft.
+Based on our analysis on rate of return, most movie investments are very profitable.
 Larger movie budgets are associated with high rate of return.
 We found that movies released in June and December are more profitable.
 In terms of genres, Action, Adventure and Sci-Fi movies are most profitable whereas
