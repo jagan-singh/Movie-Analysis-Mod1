@@ -7,10 +7,8 @@ movies. This data title, included budget, domestic_gross, worldwide_gross, ratin
 crew, genres etc. But all these values were in different datasets. For analysis
 and visualization, we used Pandas, numpy, Matplotlib and seaborn.
 
-## Presentation
-Here is a link to our presentation: [Movie-Analysis-Presentation](https://docs.google.com/presentation/d/1GM80jBA_ng6gltuki6KBqi6Y7497tEwvciLKp3pmSAg/edit?usp=sharing)
-
-Below is the discription of our project.
+Here is a link to [our presentation](https://docs.google.com/presentation/d/1GM80jBA_ng6gltuki6KBqi6Y7497tEwvciLKp3pmSAg/edit?usp=sharing):
+Below is the description of this project and our work.
 
 ## Project Goals
 Our goal in this project is to answer the following questions using the data
