@@ -33,6 +33,22 @@ movie's production budget is related to profitability. Similarly we looked at
 how was profitability related to month of release, genres and ratings of those
 movies.
 
+![](images/hist.png)\
+Histogram for rate of return.
+
+![](images/budget.png)\
+Scatter plot of rate of return and ln budget
+
+![](images/month.png)\
+Average profit of movies by Release month
+
+![](images/genre.png)\
+Percentage of genres in Most and Least profitable movies
+
+![](images/ratings2.png)\
+Bar plot of ratings and profit of movies
+
+
 ## Conclusion
 ### Recommendations
 Based on our analysis on rate of return, most movie investments are very profitable.\
@@ -41,3 +57,7 @@ We found that movies released in June and December are more profitable.\
 In terms of genres, Action, Adventure and Sci-Fi movies are most profitable whereas\
 Drama and comedy movies are least profitable.\
 We also found that highest rated movies are more profitable than low rated movies.
+
+
+### Here is the link to our presentation:
+[Movie-Analysis-Presentation](https://docs.google.com/presentation/d/1GM80jBA_ng6gltuki6KBqi6Y7497tEwvciLKp3pmSAg/edit?usp=sharing)
