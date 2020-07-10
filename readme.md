@@ -42,7 +42,7 @@ Scatter plot of rate of return and ln budget
 ![](images/month.png)\
 Average profit of movies by Release month
 
-![](images/genre.png)\
+![](images/genres.png)\
 Percentage of genres in Most and Least profitable movies
 
 ![](images/ratings2.png)\
