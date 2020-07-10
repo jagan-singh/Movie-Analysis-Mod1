@@ -28,4 +28,17 @@ analysis.
 ## Data Analysis and Visualization
 Our first goal was an overview of movie profitability. We looked at the log of
 production budget and worldwide_gross, then we calculated log of profit for each
-movie. Then a histogram was plotted for log of profit.
+movie. Then a histogram was plotted for log of profit. Then we looked at if
+movie's production budget is related to profitability. Similarly we looked at
+how was profitability related to month of release, genres and ratings of those
+movies.
+
+## Conclusion
+### Recommendations
+Based on our analysis on rate of return we concluded that investing in movie is
+the right decision for Microsoft.
+Larger movie budgets are associated with high rate of return.
+We found that movies released in June and December are more profitable.
+In terms of genres, Action, Adventure and Sci-Fi movies are most profitable whereas
+Drama and comedy movies are least profitable.
+We also found that highest rated movies are more profitable than low rated movies.
