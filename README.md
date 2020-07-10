@@ -3,9 +3,9 @@ By: Jagandeep Singh & Eryk Wdowiak
 
 ## Introduction
 In this project we develop a dataset of 2312 movies. 
-This data title, included budget, domestic_gross, worldwide_gross, rating,
-crew, genres etc. collected from several sources.  We then analyzed it and prepared 
-visualizations with Pandas, numpy, Matplotlib and seaborn.
+The data includes budget, domestic_gross, worldwide_gross, rating,
+principals, studio, genres and other information collected from several sources. 
+We then prepared an analysis and visualizations with Pandas, numpy, Matplotlib and seaborn.
 
 Here is a link to [our presentation](https://docs.google.com/presentation/d/1GM80jBA_ng6gltuki6KBqi6Y7497tEwvciLKp3pmSAg/edit?usp=sharing):
 Below is the description of this project and our work.
