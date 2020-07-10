@@ -13,7 +13,7 @@ Below is the description of this project and our work.
 ## Project Goals
 Our goal in this project is to answer the following questions using the data
 provided.
-1. An Overview of Movie profitability\
+1. An Overview of Movie profitability
 2. What is the relationship between:\
      -a Movie’s Production Budget and its Profitability\
      -the Month of Release and Profitability\
