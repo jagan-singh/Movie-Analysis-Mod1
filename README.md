@@ -1,11 +1,11 @@
-# Movie-Analysis-Mod1
+# Analysis of Movie Profitability
 By: Jagandeep Singh & Eryk Wdowiak
 
 ## Introduction
-For this project we explored the movie Industry. We had data for over 2000+
-movies. This data title, included budget, domestic_gross, worldwide_gross, rating,
-crew, genres etc. But all these values were in different datasets. For analysis
-and visualization, we used Pandas, numpy, Matplotlib and seaborn.
+In this project we develop a dataset of 2312 movies. 
+This data title, included budget, domestic_gross, worldwide_gross, rating,
+crew, genres etc. collected from several sources.  We then analyzed it and prepared 
+visualizations with Pandas, numpy, Matplotlib and seaborn.
 
 Here is a link to [our presentation](https://docs.google.com/presentation/d/1GM80jBA_ng6gltuki6KBqi6Y7497tEwvciLKp3pmSAg/edit?usp=sharing):
 Below is the description of this project and our work.
